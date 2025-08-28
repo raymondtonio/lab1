@@ -21,12 +21,12 @@ public class Triangle
      */
     public Triangle()
     {
-        height = 60;
-        width = 70;
-        xPosition = 210;
-        yPosition = 140;
+        height = 75;
+        width = 250;
+        xPosition = 170;
+        yPosition = 80;
         color = "green";
-        isVisible = false;
+        isVisible = true;
     }
 
     /**

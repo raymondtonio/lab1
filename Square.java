@@ -24,7 +24,7 @@ public class Square
         xPosition = 70;
         yPosition = 140;
         color = "red";
-        isVisible = false;
+        isVisible = true;
     }
 
     /**
